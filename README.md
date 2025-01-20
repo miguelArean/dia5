@@ -1,2 +1,3 @@
 # dia5
-Repo compartido
+Repo compartido 
+Comentario 1 de Miguel Areán desde repositorio
